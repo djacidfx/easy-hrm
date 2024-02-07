@@ -23,7 +23,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "ckeditor4": "^4.16.0",
+        "ckeditor4": "^4.24.0",
         "datatables.net-bs4": "^1.10.24",
         "moment": "^2.29.1",
         "sweetalert": "^2.1.2",
