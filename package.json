@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "ckeditor4": "^4.24.0",
-        "datatables.net-bs4": "^1.10.24",
+        "datatables.net-bs4": "^1.13.10",
         "moment": "^2.29.4",
         "sweetalert": "^2.1.2",
         "select2": "~4.0"
